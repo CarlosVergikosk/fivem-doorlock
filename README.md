@@ -4,7 +4,7 @@
 
 ## Features:
 
-### Optimized
-### Simple
-### Lock/Unlock doors
-### Animations
+###### Optimized
+###### Simple
+###### Lock/Unlock doors
+###### Animations
