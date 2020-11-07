@@ -8,3 +8,4 @@
 ###### Simple
 ###### Lock/Unlock doors
 ###### Animations
+###### Synced
