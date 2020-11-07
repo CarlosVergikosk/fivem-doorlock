@@ -30,7 +30,7 @@ function DrawText3DTest(coords, text, size)
     local px,py,pz=table.unpack(GetGameplayCamCoords())
     
     if onScreen then
-        SetTextScale(size, size)
+        SetTextScale(0.3, 0.3)
         SetTextFont(6)
         SetTextProportional(1.2)
         SetTextColour(255, 255, 255, 215)
