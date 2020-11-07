@@ -1,8 +1,8 @@
 # B1G_Doorlocks
 
-## ESX VERSION: 1.1
+#### ESX VERSION: 1.1
 
-## Features:
+### Features:
 
 ###### Optimized
 ###### Simple
