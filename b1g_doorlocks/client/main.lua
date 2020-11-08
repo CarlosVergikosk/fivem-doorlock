@@ -232,6 +232,8 @@ end
 RegisterNetEvent('b1g_doorlock:setState')
 AddEventHandler('b1g_doorlock:setState', function(doorID, state)
 	Config.DoorList[doorID].locked = state
+	Doors[doorID].locked = state
+	ApplyStateLock(doorID)
 end)
 
 
